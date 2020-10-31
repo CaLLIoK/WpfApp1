@@ -13,4 +13,12 @@
     <Page Remove="Tests\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Models\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Services\" />
+    <Folder Include="Infrastructure\" />
+  </ItemGroup>
+
 </Project>
